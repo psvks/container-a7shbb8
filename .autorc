@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "psvks",
+  "repo": "container-a7shbb8",
+  "name": "psvks",
+  "email": "113241132+psvks@users.noreply.github.com",
+}
